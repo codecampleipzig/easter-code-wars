@@ -28,6 +28,7 @@ Difficulty Scale:
 
 - [Onion array: 6kyu](https://www.codewars.com/kata/59b2883c5e2308b54d000013)
 - [Find occurences: 7kyu](https://www.codewars.com/kata/59a9919107157a45220000e1)
+- [Are the numbers in order?: 7kyu](https://www.codewars.com/kata/56b7f2f3f18876033f000307)
 
 ### Numbers
 
@@ -40,9 +41,17 @@ Difficulty Scale:
 - [Pokemon Damage Calculator: 6kyu](https://www.codewars.com/kata/536e9a7973130a06eb000e9f)
 - [Buying a Car: 6kyu](https://www.codewars.com/kata/554a44516729e4d80b000012)
 
+### Puzzles
+
+- [Thinking & Testing: 7kyu](https://www.codewars.com/kata/56d931ecc443d475d5000003)
+
 ### Strings
 
+- [Break Camel Case: 6ky](https://www.codewars.com/kata/5208f99aee097e6552000148/train/javascript)
+  - Hint: Possible helpters String.prototype.replace, String.prototype.match and Array.prototype.join
+- [Binary To Text: 6kyu](https://www.codewars.com/kata/5583d268479559400d000064)
+  - Hint: Lookup the parameters of parseInt and String.fromCharCode
 - [Find Screen Size: 7kyu](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f)
   - Hint: Lookup String.prototype.split
 - [Responsible Drinking: 7kyu](https://www.codewars.com/kata/5aee86c5783bb432cd000018)
-  - Hint: Lookup String.prototype.split
+  - Hint: Lookup String.prototype.match and parseInt
